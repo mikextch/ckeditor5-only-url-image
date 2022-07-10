@@ -1,0 +1,10 @@
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgctxt "Insert Image from URL"
+msgid "Image from URL"
+msgstr "Insertar imagen vía URL"
+
+msgctxt "Image URL"
+msgid "URL image"
+msgstr "URL de la imagen"

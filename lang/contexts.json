@@ -1,3 +1,4 @@
 {
-  "My plugin": "Content for a tooltip is displayed when a user hovers the CKEditor 5 icon."
+	"Image from URL": "Insert Image from URL",
+	"URL image": "Image URL"
 }

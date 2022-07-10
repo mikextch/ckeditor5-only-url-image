@@ -1,15 +1,15 @@
 {
   "name": "@mkxtch/ckeditor5-only-url-image",
-  "version": "0.0.1",
-  "description": "A plugin for CKEditor 5.",
+  "version": "34.2.0",
+  "description": "Insert image only from URL feature CKEditor 5",
   "keywords": [
     "ckeditor",
     "ckeditor5",
     "ckeditor 5",
     "ckeditor5-feature",
     "ckeditor5-plugin",
-    "ckeditor5-dll",
-    "ckeditor5-package-generator"
+    "ckeditor5-image",
+    "ckeditor5-only-link-image"
   ],
   "main": "src/index.js",
   "license": "MIT",
