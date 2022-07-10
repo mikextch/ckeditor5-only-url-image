@@ -1,5 +1,6 @@
 {
   "name": "@mkxtch/ckeditor5-only-url-image",
+  "author": "mkxtch",
   "version": "34.2.0",
   "description": "Insert image only from URL feature CKEditor 5",
   "keywords": [
